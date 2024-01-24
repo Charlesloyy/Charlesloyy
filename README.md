@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Charlesloyy
 - 👀 I’m interested in data science
+- Specialise in Conputer vision and teeext geeneration
 - 🌱 I’m currently learning deep learning
 - 📫 How to reach me: 
 
